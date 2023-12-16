@@ -1,0 +1,16 @@
+{
+    "dns_server": "",
+    "default_mac": "",
+    "default_gateway": "",
+    "polling_interval": 5,
+    "routes": [
+        {
+            "domain": "www.bing.com",
+            "gateway": "192.168.1.1"
+        },
+        {
+            "domain": "www.google.com",
+            "interface_mac": ""
+        }
+    ]
+}
